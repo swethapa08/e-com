@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Codystar|Josefin+Slab&display=swap'); 
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+a {
+    outline: 0;
+    text-decoration: none;
+    }
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+.logo{
+    margin: 0px;
+    padding: 25px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: #e4cbe4;
+    color: #8b008b;
+}
+.logo1{
+    text-align: end;
+    flex: 1px;
+    margin-right: 0;
+    padding: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #fce7f5;
+    align-items: baseline;
+}
+.bg{
+    flex:1px;
+}
